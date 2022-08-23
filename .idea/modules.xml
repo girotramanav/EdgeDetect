@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EdgeDetect.iml" filepath="$PROJECT_DIR$/.idea/modules/EdgeDetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EdgeDetect.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java/EdgeDetect.java.iml" filepath="$PROJECT_DIR$/.idea/modules/java/EdgeDetect.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv/EdgeDetect.opencv.unitTest.iml" />
+    </modules>
+  </component>
+</project>
