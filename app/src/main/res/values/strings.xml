@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EdgeDetect</string>
+    <string name="upload_from_url"><u>Upload image from URL</u></string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+</resources>
